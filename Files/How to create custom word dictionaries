@@ -1,0 +1,13 @@
+1. Open Microsoft Purview compliance portal > Data Classifications > Classifiers > Sensitive info types.
+2. Select + Create sensitive info type and then enter a Name and Description for your sensitive info type. Choose Next.
+3. On the Define patterns for this sensitive info type page, choose + Create pattern.
+4. In the New pattern window, select a Confidence level.
+5. Choose Add a Primary element and select Keyword dictionary. .
+6. On the Add a keyword dictionary flyout, you can:
+    - Upload a dictionary file in TXT or CSV format.
+    - Choose from existing dictionaries.
+    - or create a new dictionary by entering keywords manually and giving it a name.
+7. Still in the New Pattern window, for Character proximity, specify how far away (in number of characters) that any supporting elements must be to be detected. The closer the primary and supporting elements are to each other, the more likely the detected content is going to be what you're looking for.
+8. Add the Supporting elements you wish to use to increase the accuracy of detecting what you're looking for.
+9. Add any Additional checks and then choose Create.
+10. Choose Next to continue creating your sensitive information type. When you are finished, choose Done.
