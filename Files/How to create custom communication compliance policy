@@ -1,0 +1,17 @@
+1. Under the compliance portal go to communication compliance
+2. Policy tab
+3. Create new policy > custom policy
+4. Enter a name for your custom policy
+5. Enter a description for you custom policy
+6. Choose the users and groups within your organization who this policy will apply to
+7. Specify the group members to be excluded from the policy
+8. Choose users to review the communications that are returned by this policy.
+9. Choose locations to detect communications
+10. Choose conditions and review percentage
+  - Add Condition
+  - Content contains any of these sensitive info types
+  - Add sensitive info types
+  - Select the sensitive info type you created using the How to create custom word dictionaries guide
+  - Add options like OCR and review percentages
+11. Finish and create policy
+  
