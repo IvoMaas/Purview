@@ -23,6 +23,10 @@ Here’s a general overview of what you can expect to find in this repository:
 - **Files/**: Files that may assist in your Purview implementation.
 - **Resources/**: Links and references to other valuable materials and sources of information.
 
+## ChangeLog
+
+For a detailed history of changes, please [view the ChangeLog](./ChangeLog).
+
 ## Contributions
 
 This repository is a work in progress, and I welcome any contributions or feedback. If you have something valuable to add or spot an issue, please feel free to submit a pull request or open an issue.
