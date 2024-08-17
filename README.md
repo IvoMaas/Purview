@@ -7,6 +7,7 @@ Welcome to my Purview repository! This is my personal effort in providing you wi
 Most of the resources found here are either:
 - Notes from the field
 - Links to other valuable information sources
+- Files that contain usefull information
 - Scripts and files that I've personally created
 
 ## Disclaimer
